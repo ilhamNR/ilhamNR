@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilhamnr&label=Profile%20views&color=0e75b6&style=flat" alt="ilhamnr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilhamnr" alt="ilhamnr" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilhamnr" alt="ilhamnr" /></a> </p>
 
 - 🌱 I’m currently learning **Back-End(Golang), Data Structure & Alogirthm, etc.**
 
@@ -22,4 +22,4 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ilhamnr&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamnr&" alt="ilhamnr" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamnr&" alt="ilhamnr" /></p>
