@@ -22,4 +22,4 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ilhamnr&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 <br/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamnr&" alt="ilhamnr" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamnr&theme=dark" alt="ilhamnr" /></p>
